@@ -1,0 +1,55 @@
+{
+  "project_info": {
+    "project_number": "209560616867",
+    "firebase_url": "https://lab4-b3188.firebaseio.com",
+    "project_id": "lab4-b3188",
+    "storage_bucket": "lab4-b3188.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:209560616867:android:4bc133a1a21c29bc",
+        "android_client_info": {
+          "package_name": "com.hanssen.lab4"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "209560616867-7gudsl7efr72j0r7b06rm2q9pov6bved.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.hanssen.lab4",
+            "certificate_hash": "892cad0584330b80cf93781322061681c5d2dcfb"
+          }
+        },
+        {
+          "client_id": "209560616867-0anoh8vi67obnsj4sp361m5i6s3eaqrj.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyC_ib4q8nyY5SHovO6nrfqngqOUTq7-kvU"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 2,
+          "other_platform_oauth_client": [
+            {
+              "client_id": "209560616867-0anoh8vi67obnsj4sp361m5i6s3eaqrj.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
